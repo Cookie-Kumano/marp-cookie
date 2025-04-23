@@ -39,25 +39,14 @@ section.slides {
   }
 }
 
-section.left-image,
-section.right-image {
+.column {
+  padding-top: 32px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 
-  img {
-    max-width: 45%;
-  }
-
-  * {
-    max-width: 50%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-
-  img {
-    flex: none;
+  div {
+    width: 50%;
   }
 }
 
