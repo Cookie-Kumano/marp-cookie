@@ -53,3 +53,9 @@ $sudo rm -rf /*
 ![ほげ](./images/5B5A5909.jpg)
 
 </div>
+
+---
+
+<!-- class: full-image-light -->
+
+![bg](./images/5B5A5909.jpg)

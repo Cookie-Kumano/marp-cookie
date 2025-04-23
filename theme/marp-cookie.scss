@@ -42,6 +42,21 @@ section.slides {
   }
 }
 
+section.full-image-dark,
+section.full-image-light {
+  img {
+    max-height: unset;
+  }
+  header,
+  footer {
+    display: none;
+  }
+}
+
+section.full-image-light {
+  --paginate-color: #000;
+}
+
 .column {
   padding-top: 32px;
   display: flex;
