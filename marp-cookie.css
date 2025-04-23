@@ -34,26 +34,14 @@ section.slides h2 {
   top: 96px;
 }
 
-section.left-image,
-section.right-image {
+.column {
+  padding-top: 32px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-section.left-image img,
-section.right-image img {
-  max-width: 45%;
-}
-section.left-image *,
-section.right-image * {
-  max-width: 50%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-section.left-image img,
-section.right-image img {
-  flex: none;
+.column div {
+  width: 50%;
 }
 
 section::after {
