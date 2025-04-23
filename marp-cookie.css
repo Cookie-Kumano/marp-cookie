@@ -4,7 +4,7 @@ section {
   background-color: #f2f2f2;
   color: #424242;
   font-size: 32px;
-  font-family: "Helvetica Neue", "Helvetica", "Arial", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDGothic", "Hiragino Kaku Gothic Pro", "Yu Gothic", "Meiryo", "sans-serif";
+  font-family: "Helvetica Neue", "Helvetica", "Arial", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDGothic", "Hiragino Kaku Gothic Pro", "Noto Sans CJK JP", "Yu Gothic", "Meiryo", "sans-serif";
   --header-footer-color: #fff;
   --header-footer-font-size: 0.7em;
   --heading-strong-color: #ef6c00;
