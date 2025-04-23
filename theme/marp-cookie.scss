@@ -27,18 +27,20 @@ section.title {
   }
 }
 
-section.slides {
+section.slides,
+section.full-image-dark,
+section.full-image-light {
   h1 {
     --h1-color: #f57c00;
     position: absolute;
-    left: 50px;
-    top: 50px;
+    left: 36px;
+    top: 24px;
   }
 
   h2 {
     position: absolute;
-    left: 50px;
-    top: 96px;
+    left: 36px;
+    top: 64px;
   }
 }
 

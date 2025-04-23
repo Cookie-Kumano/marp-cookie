@@ -56,6 +56,6 @@ $sudo rm -rf /*
 
 ---
 
-<!-- class: full-image-light -->
+<!-- class: full-image-dark -->
 
 ![bg](./images/5B5A5909.jpg)
