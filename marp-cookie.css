@@ -2,7 +2,7 @@
 @import 'default';
 section {
   background-color: #f2f2f2;
-  color: #424;
+  color: #424242;
   font-size: 32px;
   font-family: "Helvetica Neue", "Helvetica", "Arial", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDGothic", "Hiragino Kaku Gothic Pro", "Yu Gothic", "Meiryo", "sans-serif";
   --header-footer-color: #fff;
@@ -20,7 +20,7 @@ section img {
 }
 
 section.title h1 {
-  --h1-color: #212;
+  --h1-color: #212121;
 }
 
 section.slides h1,
