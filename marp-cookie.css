@@ -23,16 +23,35 @@ section.title h1 {
   --h1-color: #212;
 }
 
-section.slides h1 {
+section.slides h1,
+section.full-image-dark h1,
+section.full-image-light h1 {
   --h1-color: #f57c00;
   position: absolute;
-  left: 50px;
-  top: 50px;
+  left: 36px;
+  top: 24px;
 }
-section.slides h2 {
+section.slides h2,
+section.full-image-dark h2,
+section.full-image-light h2 {
   position: absolute;
-  left: 50px;
-  top: 96px;
+  left: 36px;
+  top: 64px;
+}
+
+section.full-image-dark img,
+section.full-image-light img {
+  max-height: unset;
+}
+section.full-image-dark header,
+section.full-image-dark footer,
+section.full-image-light header,
+section.full-image-light footer {
+  display: none;
+}
+
+section.full-image-light {
+  --paginate-color: #000;
 }
 
 .column {
